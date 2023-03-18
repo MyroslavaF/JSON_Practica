@@ -1,0 +1,96 @@
+{
+    "supermercados": {
+        "supermercado": [
+            {
+                "nombre": "Mercadonna",
+                "direccion": "C/Jupiter,1",
+                "geolocalizacion": "40.40982535718423, -3.7612160920570825",
+                "productos_oferta": {
+                    "producto": [
+                        {
+                            "nombre": "Garbanzos",
+                            "oferta": "10%",
+                            "pedido_vigencia": "10 dias",
+                            "unidades": "3",
+                            "unidades_medida": "botellas",
+                            "precio": "1.30",
+                            "adquirido": "No"
+                        },
+                        {
+                            "nombre": "Salchichas",
+                            "oferta": "15%",
+                            "pedido_vigencia": "5 dias",
+                            "unidades": "5",
+                            "unidades_medida": "paquetes",
+                            "precio": "2.50",
+                            "adquirido": "Si"
+                        }
+                    ]
+                },
+                "productos_sin_oferta": {
+                    "producto": [
+                        {
+                            "nombre": "Aceite de oliva",
+                            "unidades": "2",
+                            "unidades_medida": "botellas",
+                            "precio": "4.50",
+                            "adquirido": "Si"
+                        },
+                        {
+                            "nombre": "Sal",
+                            "unidades": "6",
+                            "unidades_medida": "paquetes",
+                            "precio": "0.50",
+                            "adquirido": "Si"
+                        }
+                    ]
+                }
+            },
+            {
+                "nombre": "Lidl",
+                "direccion": "C/Venus,2",
+                "geolocalizacion": "40.40982535718423, -3.7612160920570825",
+                "productos_oferta": {
+                    "producto": [
+                        {
+                            "nombre": "Garbanzos",
+                            "oferta": "10%",
+                            "pedido_vigencia": "10 dias",
+                            "unidades": "3",
+                            "unidades_medida": "botellas",
+                            "precio": "1.30",
+                            "adquirido": "No"
+                        },
+                        {
+                            "nombre": "Leche",
+                            "oferta": "10%",
+                            "pedido_vigencia": "10 dias",
+                            "unidades": "6",
+                            "unidades_medida": "paquetes",
+                            "precio": "6.00",
+                            "adquirido": "Si"
+                        }
+                    ]
+                },
+                "productos_sin_oferta": {
+                    "producto": [
+                        {
+                            "nombre": "Garbanzos",
+                            "unidades": "3",
+                            "unidades_medida": "botellas",
+                            "precio": "1.30",
+                            "adquirido": "No"
+                        },
+                        {
+                            "nombre": "Yogures",
+                            "unidades": "2",
+                            "unidades_medida": "botellas",
+                            "precio": "2.50",
+                            "adquirido": "No"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

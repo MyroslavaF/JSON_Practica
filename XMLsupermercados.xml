@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <root>
+     <supermercados>
+         <supermercado>
+             <nombre>Mercadonna</nombre>
+             <direccion>C/Jupiter,1</direccion>
+             <geolocalizacion>40.40982535718423, -3.7612160920570825</geolocalizacion>
+             <productos_oferta>
+                 <producto>
+                     <nombre>Garbanzos</nombre>
+                     <oferta>10%</oferta>
+                     <pedido_vigencia>10 dias</pedido_vigencia>
+                     <unidades>3</unidades>
+                     <unidades_medida>botellas</unidades_medida>
+                     <precio>1.30</precio>
+                     <adquirido>No</adquirido>
+                 </producto>
+                 <producto>
+                     <nombre>Salchichas</nombre>
+                     <oferta>15%</oferta>
+                     <pedido_vigencia>5 dias</pedido_vigencia>
+                     <unidades>5</unidades>
+                     <unidades_medida>paquetes</unidades_medida>
+                     <precio>2.50</precio>
+                     <adquirido>Si</adquirido>
+                 </producto>
+             </productos_oferta>
+             <productos_sin_oferta>
+                 <producto>
+                     <nombre>Aceite de oliva</nombre>
+                     <unidades>2</unidades>
+                     <unidades_medida>botellas</unidades_medida>
+                     <precio>4.50</precio>
+                     <adquirido>Si</adquirido>
+                 </producto>
+                 <producto>
+                     <nombre>Sal</nombre>
+                     <unidades>6</unidades>
+                     <unidades_medida>paquetes</unidades_medida>
+                     <precio>0.50</precio>
+                     <adquirido>Si</adquirido>
+                 </producto>
+             </productos_sin_oferta>
+         </supermercado>
+         <supermercado>
+             <nombre>Lidl</nombre>
+             <direccion>C/Venus,2</direccion>
+             <geolocalizacion>40.40982535718423, -3.7612160920570825</geolocalizacion>
+             <productos_oferta>
+                 <producto>
+                     <nombre>Garbanzos</nombre>
+                     <oferta>10%</oferta>
+                     <pedido_vigencia>10 dias</pedido_vigencia>
+                     <unidades>3</unidades>
+                     <unidades_medida>botellas</unidades_medida>
+                     <precio>1.30</precio>
+                     <adquirido>No</adquirido>
+                 </producto>
+                 <producto>
+                     <nombre>Leche</nombre>
+                     <oferta>10%</oferta>
+                     <pedido_vigencia>10 dias</pedido_vigencia>
+                     <unidades>6</unidades>
+                     <unidades_medida>paquetes</unidades_medida>
+                     <precio>6.00</precio>
+                     <adquirido>Si</adquirido>
+                 </producto>
+             </productos_oferta>
+             <productos_sin_oferta>
+                 <producto>
+                     <nombre>Garbanzos</nombre>
+                     <unidades>3</unidades>
+                     <unidades_medida>botellas</unidades_medida>
+                     <precio>1.30</precio>
+                     <adquirido>No</adquirido>
+                 </producto>
+                 <producto>
+                     <nombre>Yogures</nombre>
+                     <unidades>2</unidades>
+                     <unidades_medida>botellas</unidades_medida>
+                     <precio>2.50</precio>
+                     <adquirido>No</adquirido>
+                 </producto>
+             </productos_sin_oferta>
+         </supermercado>
+     </supermercados>
+ </root>
